@@ -5,5 +5,6 @@ public class App {
         VentanaPrincipal ventanaPrincipal = new VentanaPrincipal ("Proyecto Escuela");
         ventanaPrincipal.setSize(800,700);
         ventanaPrincipal.setVisible(true);
+        
     }
 }
